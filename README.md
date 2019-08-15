@@ -5,4 +5,7 @@
 
 ### [Table of Contents](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/toc.ipynb?flush=true)
 
+
+### [Chapter 1.0 Data Sources](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/01.00-Data_Sources.ipynb)
+
 - [1.1 Water Survey of Canada HYDAT](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/01.01-Water_Survey_of_Canada_HYDAT.ipynb)
