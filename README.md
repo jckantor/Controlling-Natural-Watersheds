@@ -44,7 +44,7 @@
 
 - [5.2 Implementation of Rainy Lake Rule Curves with Feedback Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb)
 
-- [5.3 Model Predictive Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.03-Model Predictive Control.ipynb)
+- [5.3 Model Predictive Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.03-Model_Predictive_Control.ipynb)
 
 
 ### [Chapter 6.0 Adaptive Managment](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/06.00-Adaptive_Management.ipynb)
