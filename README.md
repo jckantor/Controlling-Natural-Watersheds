@@ -26,18 +26,16 @@
 
 - [3.2 Imputing the Effect of the 2000 Rule Curve Changes on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb)
 
-- [3.3 Limits to Rule Curve Performance](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.03-Limits to Rule Curve Performance.ipynb)
+- [3.3 Limits to Rule Curve Performance](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.03-Limits_to_Rule_Curve_Performance.ipynb)
 
 - [3.4 Harmonizing Rule Curves to Seasonal Inflows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb)
 
-- [3.5 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.05-Rule_Curve_Optimization.ipynb)
+- [3.5 Rule Curve Optimization](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.05-Rule_Curve_Optimization.ipynb)
 
 
 ### [Chapter 4.0 Estimation](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/04.00-Estimation.ipynb)
 
 - [4.1 Estimating Rainy Lake Inflows 1971-2014](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb)
-
-- [4.2 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/04.02-Improved_Prediction_of_Inflows.ipynb)
 
 
 ### [Chapter 5.0 Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.00-Control.ipynb)
@@ -47,8 +45,6 @@
 - [5.2 Implementation of Rainy Lake Rule Curves with Feedback Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb)
 
 - [5.3 Model Predictive Control](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.03-Model Predictive Control.ipynb)
-
-- [5.4 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/05.04-Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb)
 
 
 ### [Chapter 6.0 Adaptive Managment](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/06.00-Adaptive_Management.ipynb)
@@ -68,23 +64,23 @@
 
 - [A.4 Namakan Lake Water Levels](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.04-Namakan_Lake_Water_Levels.ipynb)
 
-- [A.5 Global Historical Climatology Network](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.05-Global_Historical_Climatology_Network.ipynb)
+- [A.5 Rainy River Flows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.05-Rainy_River_Flows.ipynb)
 
-- [A.6 Rule Curves for Rainy and Namakan Lakes](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.06-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb)
+- [A.6 Namakan Lake Outflows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.06-Namakan_Lake_Outflows.ipynb)
 
-- [A.7 Stage-Volume Relationships for Rainy and Namakan Lakes](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.07-Stage-Volume_Relationships.ipynb)
+- [A.7 USGS Surface Water Daily Data](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.07-USGS_Surface_Water_Daily_Data.ipynb)
 
-- [A.8 Ice Out Dates](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.08-Ice_Out_Dates.ipynb)
+- [A.8 Stage-Volume Relationships for Rainy and Namakan Lakes](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.08-Stage-Volume_Relationships.ipynb)
 
-- [A.9 USGS Surface Water Daily Data](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.09-USGS Surface Water Daily Data.ipynb)
+- [A.9 Rule Curves for Rainy and Namakan Lakes](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb)
 
-- [A.20 Rainy River Flows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.20-Rainy_River_Flows.ipynb)
+- [A.10 Ice Out Dates](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.10-Ice_Out_Dates.ipynb)
 
-- [A.21 Namakan Lake Outflows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.21-Namakan_Lake_Outflows.ipynb)
+- [A.11 Global Historical Climatology Network](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.11-Global_Historical_Climatology_Network.ipynb)
 
-- [A.30 Precipitation at International Falls 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.30-Precipitation_at_International_Falls_1970-2010.ipynb)
+- [A.12 Precipitation at International Falls 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.12-Precipitation_at_International_Falls_1970-2010.ipynb)
 
-- [A.40 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.40-ENSO.ipynb)
+- [A.13 ENSO](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.13-ENSO.ipynb)
 
 
 ### [Appendix B. None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.00-Projects.ipynb)
