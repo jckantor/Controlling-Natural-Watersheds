@@ -6,7 +6,7 @@
 ### [Table of Contents](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/toc.ipynb?flush=true)
 
 
-### [Chapter 1.0 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/01.00-Introduction.ipynb)
+### [Chapter 1.0 Introduction](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/01.00-Introduction.ipynb)
 
 
 ### [Chapter 2.0 The Challenge of Controlling Natural Watersheds](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb)
@@ -22,15 +22,15 @@
 
 ### [Chapter 3.0 Analysis and Design of Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.00-Analysis_and_Design_of_Rule_Curves.ipynb)
 
-- [3.3 Feasibility of Rainy Lake Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.03-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb)
+- [3.1 Feasibility of Rainy Lake Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb)
 
-- [3.4 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.04-Rule_Curve_Optimization.ipynb)
+- [3.2 Imputing the Effect of the 2000 Rule Curve Changes on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb)
 
-- [3.5 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.05-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb)
+- [3.3 Limits to Rule Curve Performance](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.03-Limits to Rule Curve Performance.ipynb)
 
-- [3.6 Limits to Rule Curve Performance](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.06-Limits to Rule Curve Performance.ipynb)
+- [3.4 Harmonizing Rule Curves to Seasonal Inflows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb)
 
-- [3.7 Imputing the Effect of the 2000 Rule Curve Changes on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.07-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb)
+- [3.5 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.05-Rule_Curve_Optimization.ipynb)
 
 
 ### [Chapter 4.0 Estimation](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/04.00-Estimation.ipynb)
