@@ -319,7 +319,7 @@
 
 ## [Appendix B. None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.00-Projects.ipynb)
 
-### [B.1 None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.01-Untitled.ipynb)
+### [B.1 Solar Cycle](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.01-Solar_Cycle.ipynb)
 
 ### [B.2 Dashboard](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.02-Dashboard.ipynb)
 * Markdown Figures
