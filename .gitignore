@@ -1,5 +1,5 @@
 data/HYDAT/
-notebooks/google_api_key.txt
+data/google_api_key.txt
 
 ipynb_checkpoints/
 .idea/

@@ -31,7 +31,7 @@
 - [6.2 Freshet Predictor for Rainy Lake](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/06.02-Freshet_Predictor_for_Rainy_Lake.ipynb)
 
 ### [Appendix A. Data Sources](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.00-Data_Sources.ipynb)
-- [A.1 Water Survey of Canada HYDAT](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb)
+- [A.1 Water Survey of Canada HYDAT Database](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb)
 - [A.2 Water Survey of Canada Usage](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb)
 - [A.3 Rainy Lake Water Levels](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.03-Rainy_Lake_Water_Levels.ipynb)
 - [A.4 Namakan Lake Water Levels](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.04-Namakan_Lake_Water_Levels.ipynb)

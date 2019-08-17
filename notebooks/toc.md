@@ -167,11 +167,14 @@
 
 ## [Appendix A. Data Sources](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.00-Data_Sources.ipynb)
 
-### [A.1 Water Survey of Canada HYDAT](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb)
-- [Initialization and Loading of HYDAT Data Tables](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb#Initialization-and-Loading-of-HYDAT-Data-Tables)
-- [Monitoring Stations in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb#Monitoring-Stations-in-the-Rainy-River-Watershed)
-- [Pickle Level Data to WSC_LEVELS](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb#Pickle-Level-Data-to-WSC_LEVELS)
-- [Pickle Flow Data to WSC_FLOWS](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT.ipynb#Pickle-Flow-Data-to-WSC_FLOWS)
+### [A.1 Water Survey of Canada HYDAT Database](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb)
+- [Initialization](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb#Initialization)
+- [Read HYDAT data](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb#Read-HYDAT-data)
+- [Locating Monitoring Stations in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb#Locating-Monitoring-Stations-in-the-Rainy-River-Watershed)
+- [Pickle Level Data to LEVELS](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb#Pickle-Level-Data-to-LEVELS)
+- [Pickle Flow Data to FLOWS](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb#Pickle-Flow-Data-to-FLOWS)
+* Markdown Figures
+    - [../figures/IJC/rl_basinmap_640.png](../figures/IJC/rl_basinmap_640.png)
 * Markdown Links
     - [HYDAT database](https://www.ec.gc.ca/rhc-wsc/default.asp?lang=En&n=9018B5EC-1)
     - [Water Survey of Canada (WSC)](http://wateroffice.ec.gc.ca/)
@@ -181,6 +184,7 @@
 
 ### [A.2 Water Survey of Canada Usage](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb)
 - [Initialization](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Initialization)
+- [Google API Key](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Google-API-Key)
 - [Read Cached Data Files](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Read-Cached-Data-Files)
 - [Mapping WSC Stations in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Mapping-WSC-Stations-in-the-Rainy-River-Watershed)
 - [Viewing Station Data](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Viewing-Station-Data)
@@ -192,6 +196,8 @@
     - [Ungaged Inflows to Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Ungaged-Inflows-to-Rainy-River)
 - [Example: Flow-Frequency for State-of-Nature Streams in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Example:-Flow-Frequency-for-State-of-Nature-Streams-in-the-Rainy-River-Watershed)
 - [Annual flows on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Annual-flows-on-Rainy-River)
+* Markdown Figures
+    - [../figures/IJC/rl_basinmap_640.png](../figures/IJC/rl_basinmap_640.png)
 * Markdown Links
     - [Rainy River drainage](http://www.ijc.org/files/tinymce/uploaded/rl_basinmap.pdf)
 
