@@ -8,8 +8,8 @@
 ### [Chapter 2.0 The Challenge of Controlling Natural Watersheds](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb)
 - [2.1 Namakan and Rainy Lake Water Levels 1970-2014](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb)
 - [2.2 Rainy River Flows 1970-2014](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb)
-- [2.2 Changes to Rainy River Flows 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.02-Changes_in_Rainy_River_Flows_1970-2010.ipynb)
-- [2.3 Flow Constrictions on Upper Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.03-Flow_Constrictions_on_Upper_Rainy_River.ipynb)
+- [2.3 Changes to Rainy River Flows 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb)
+- [2.4 Flow Constrictions on Upper Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb)
 
 ### [Chapter 3.0 Analysis and Design of Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.00-Analysis_and_Design_of_Rule_Curves.ipynb)
 - [3.1 Feasibility of Rainy Lake Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb)
@@ -45,6 +45,6 @@
 - [A.12 Precipitation at International Falls 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.12-Precipitation_at_International_Falls_1970-2010.ipynb)
 - [A.13 ENSO](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.13-ENSO.ipynb)
 
-### [Appendix B. None](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.00-Projects.ipynb)
+### [Appendix B. Projects](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.00-Projects.ipynb)
 - [B.1 Solar Cycle](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.01-Solar_Cycle.ipynb)
 - [B.2 Dashboard](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/B.02-Dashboard.ipynb)
