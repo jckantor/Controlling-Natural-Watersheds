@@ -36,6 +36,13 @@
 
 ### [2.4 Flow Constrictions on Upper Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb)
 
+### [2.5 State of Nature Flows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb)
+- [Initialization](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb#Initialization)
+- [Distribution of Ungaged Inflows to Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb#Distribution-of-Ungaged-Inflows-to-Rainy-River)
+    - [Ungaged Inflows to Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb#Ungaged-Inflows-to-Rainy-River)
+- [Flow-Frequency for State-of-Nature Streams in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb#Flow-Frequency-for-State-of-Nature-Streams-in-the-Rainy-River-Watershed)
+- [Annual flows on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb#Annual-flows-on-Rainy-River)
+
 
 ## [Chapter 3.0 Analysis and Design of Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.00-Analysis_and_Design_of_Rule_Curves.ipynb)
 
@@ -192,10 +199,6 @@
 - [Plotting Flow Data](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Plotting-Flow-Data)
 - [Example: Comparing Levels on Rainy and Namakan Lakes](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Example:-Comparing-Levels-on-Rainy-and-Namakan-Lakes)
 - [Example: What was the highest water events on Rainy Lake?](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Example:-What-was-the-highest-water-events-on-Rainy-Lake?)
-- [Example: Distribution of Inflows on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Example:-Distribution-of-Inflows-on-Rainy-River)
-    - [Ungaged Inflows to Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Ungaged-Inflows-to-Rainy-River)
-- [Example: Flow-Frequency for State-of-Nature Streams in the Rainy River Watershed](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Example:-Flow-Frequency-for-State-of-Nature-Streams-in-the-Rainy-River-Watershed)
-- [Annual flows on Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/A.02-Water_Survey_of_Canada_Usage.ipynb#Annual-flows-on-Rainy-River)
 * Markdown Figures
     - [../figures/IJC/rl_basinmap_640.png](../figures/IJC/rl_basinmap_640.png)
 * Markdown Links

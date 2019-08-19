@@ -10,6 +10,7 @@
 - [2.2 Rainy River Flows 1970-2014](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb)
 - [2.3 Changes to Rainy River Flows 1970-2010](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb)
 - [2.4 Flow Constrictions on Upper Rainy River](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb)
+- [2.5 State of Nature Flows](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/02.05-State-of-Nature-Flows.ipynb)
 
 ### [Chapter 3.0 Analysis and Design of Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.00-Analysis_and_Design_of_Rule_Curves.ipynb)
 - [3.1 Feasibility of Rainy Lake Rule Curves](http://nbviewer.jupyter.org/github/jckantor/Controlling-Natural-Watersheds/blob/master/notebooks/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb)
